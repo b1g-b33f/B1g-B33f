@@ -9,6 +9,6 @@
 
 •	Working towards PNPT
 
-•	Current progress at WGU 
+•	Current progress at WGU BS Cybersecurity and Information Assurance
 
 ![image](https://user-images.githubusercontent.com/130265537/232260884-f6bd1ee8-d6e4-4ca3-bfc0-cf67a89e470b.png)
