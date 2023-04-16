@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**B1g-B33f/B1g-B33f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+•	Always practicing my craft on Tryhackme - https://tryhackme.com/p/B33f
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•	Find me on Linkedin - https://www.linkedin.com/in/shawn-szczepkowski
+
+•	YouTube for CTFs, walkthroughs and other cool things - https://www.youtube.com/@B33f_Security
+
+•	Working towards PNTP
+
+•	Current progress at WGU 
+
+![image](https://user-images.githubusercontent.com/130265537/232260884-f6bd1ee8-d6e4-4ca3-bfc0-cf67a89e470b.png)
