@@ -7,7 +7,7 @@
 
 •	YouTube for CTFs, walkthroughs and other cool things - https://www.youtube.com/@B33f_Security
 
-•	Working towards PNTP
+•	Working towards PNPT
 
 •	Current progress at WGU 
 
