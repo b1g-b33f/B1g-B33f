@@ -11,5 +11,6 @@
 
 •	Current progress at WGU for BS Cybersecurity and Information Assurance
 
-![image](https://github.com/B1g-B33f/B1g-B33f/assets/130265537/55247d50-0651-4a91-969c-75fc0cf2a745)
+![image](https://github.com/B1g-B33f/B1g-B33f/assets/130265537/b5ad1034-19da-479e-a45e-eac590925dbf)
+
 
