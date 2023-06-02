@@ -7,10 +7,10 @@
 
 •	YouTube for CTFs, walkthroughs and other cool things - https://www.youtube.com/@B33f_Security
 
-•	Working towards PNPT
+•	Working towards PJPT
 
 •	Current progress at WGU for BS Cybersecurity and Information Assurance
 
-![image](https://github.com/B1g-B33f/B1g-B33f/assets/130265537/b5ad1034-19da-479e-a45e-eac590925dbf)
+![image](https://github.com/B1g-B33f/B1g-B33f/assets/130265537/c6fc7b83-d117-483c-9f17-e7cb930a7ba9)
 
 
