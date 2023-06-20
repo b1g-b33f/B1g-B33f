@@ -2,7 +2,6 @@
 
 
 •	Always practicing my craft on Tryhackme - https://tryhackme.com/p/B33f
-<script src="https://tryhackme.com/badge/1009978"></script>
 
 •	Find me on Linkedin - https://www.linkedin.com/in/shawn-szczepkowski
 
