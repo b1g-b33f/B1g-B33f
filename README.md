@@ -9,9 +9,11 @@
 
 •	Working towards PJPT https://1drv.ms/u/s!AsLwhS8sRD4rgZleOemxTJNyPpaqFA
 
-•	Current progress at WGU for BS Cybersecurity and Information Assurance
+•	Graduated from WGU Septemeber 2023 with BS Cybersecurity and Information Assurance
+![image](https://github.com/B1g-B33f/B1g-B33f/assets/130265537/4fbf879f-9137-422d-9065-16861aedc4a0)
 
-![image](https://github.com/B1g-B33f/B1g-B33f/assets/130265537/a8751976-a491-4f58-9751-935cced77176)
+
+
 
 
 
