@@ -8,6 +8,7 @@
 •	YouTube for CTFs, walkthroughs and other cool things - https://www.youtube.com/@B33f_Security
 
 •	PJPT obtained, working on PNPT 
+
 ![image](https://github.com/B1g-B33f/B1g-B33f/assets/130265537/dc3d7083-6bc3-4758-8f70-54058b699de1)
 
 
