@@ -7,7 +7,9 @@
 
 •	YouTube for CTFs, walkthroughs and other cool things - https://www.youtube.com/@B33f_Security
 
-•	Working towards PJPT https://1drv.ms/u/s!AsLwhS8sRD4rgZleOemxTJNyPpaqFA
+•	PJPT obtained, working on PNPT 
+![image](https://github.com/B1g-B33f/B1g-B33f/assets/130265537/dc3d7083-6bc3-4758-8f70-54058b699de1)
+
 
 •	Graduated from WGU Septemeber 2023 with BS Cybersecurity and Information Assurance
 ![image](https://github.com/B1g-B33f/B1g-B33f/assets/130265537/50581aff-5218-4a6b-a484-5df1c0ebcfac)
