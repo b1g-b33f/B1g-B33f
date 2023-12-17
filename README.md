@@ -5,7 +5,7 @@
 
 •	Find me on Linkedin - https://www.linkedin.com/in/shawn-szczepkowski
 
-•	YouTube for CTFs, walkthroughs and other cool things - https://www.youtube.com/@B33f_Security
+•	YouTube for CTFs, walkthroughs and other cool things - http://www.youtube.com/@b1gb33f
 
 •	PJPT obtained, working on PNPT 
 
