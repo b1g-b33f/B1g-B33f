@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-•	Always practicing my craft on Tryhackme - [https://tryhackme.com/p/B33f](https://tryhackme.com/p/b1gb33f)
+•	Always practicing my craft on Tryhackme - [https://tryhackme.com/p/b1gb33f](https://tryhackme.com/p/b1gb33f)
 
 •	Find me on Linkedin - https://www.linkedin.com/in/shawn-szczepkowski
 
