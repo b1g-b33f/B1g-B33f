@@ -11,7 +11,7 @@
 
 ![image](https://github.com/B1g-B33f/B1g-B33f/assets/130265537/dc3d7083-6bc3-4758-8f70-54058b699de1)  
 
-- PJOR
+- PJOR obtained
 
 ![image](https://github.com/b1g-b33f/B1g-B33f/assets/130265537/30a572b4-5e0f-42cc-9cac-c195906cd406)
 
