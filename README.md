@@ -1,8 +1,8 @@
 ### Hi there 👋
 
--	Find me on Linkedin - https://www.linkedin.com/in/shawn-szczepkowski
+-	Linkedin - https://www.linkedin.com/in/shawn-szczepkowski
 
--	YouTube for CTFs, walkthroughs and other cool things - http://www.youtube.com/@b1gb33f
+-	YouTube - http://www.youtube.com/@b1gb33f
 
 -	PNPT  
 ![image](https://github.com/b1g-b33f/B1g-B33f/assets/130265537/f0c6e316-40e1-43fe-96fd-d8abe6609718)
