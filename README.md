@@ -5,13 +5,13 @@
 -	YouTube for CTFs, walkthroughs and other cool things - http://www.youtube.com/@b1gb33f
 
 -	PNPT
-![image](https://github.com/b1g-b33f/B1g-B33f/assets/130265537/c970c245-a1de-49c9-9ba9-aeca336250a2)
+![image](https://github.com/b1g-b33f/B1g-B33f/assets/130265537/f0c6e316-40e1-43fe-96fd-d8abe6609718)
 
 -	PJPT
-![image](https://github.com/B1g-B33f/B1g-B33f/assets/130265537/dc3d7083-6bc3-4758-8f70-54058b699de1)  
-
+ ![image](https://github.com/b1g-b33f/B1g-B33f/assets/130265537/db6a48e6-cdd1-4f44-abdc-9ed7195f222c)
+ 
 - PJOR
-![image](https://github.com/b1g-b33f/B1g-B33f/assets/130265537/30a572b4-5e0f-42cc-9cac-c195906cd406)
+![image](https://github.com/b1g-b33f/B1g-B33f/assets/130265537/f22bbbde-599c-4103-b12d-ca0301a36a8d)
 
 -	Graduated from WGU Septemeber 2023 with BS Cybersecurity and Information Assurance
 ![image](https://github.com/B1g-B33f/B1g-B33f/assets/130265537/50581aff-5218-4a6b-a484-5df1c0ebcfac)
