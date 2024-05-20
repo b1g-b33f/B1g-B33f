@@ -15,7 +15,8 @@
 
 - HTB Academy progress  
 ![image](https://github.com/b1g-b33f/B1g-B33f/assets/130265537/1f77b98c-0706-4a7f-be6f-f690a445cca5)
-![image](https://github.com/b1g-b33f/B1g-B33f/assets/130265537/b7d1dcd4-6f9a-4f9a-9132-2c28a4ff4345)
+![image](https://github.com/b1g-b33f/B1g-B33f/assets/130265537/9eb82219-4ea4-4b2a-9f41-ad68f2f72bb2)
+
 
 
 
