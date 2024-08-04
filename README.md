@@ -6,7 +6,7 @@
 
 -	Hack The Box - https://app.hackthebox.com/profile/1768657
 
--	TryHackMe
+-	TryHackMe - https://tryhackme.com/p/b1gb33f
   <img src="https://tryhackme-badges.s3.amazonaws.com/b1gb33f.png" alt="TryHackMe">
 
 
